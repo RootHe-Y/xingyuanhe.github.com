@@ -1,8 +1,10 @@
 ## Xingyuan He
 
-Junior Student, College of Material Science and Engineering, Sichuan univ, Chendu
+Junior Student, College of Material Science and Engineering, Sichuan Univ, Chendu
 
-### Markdown
+Email:root_he@outlook.com
+
+### Biography [CV]
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
