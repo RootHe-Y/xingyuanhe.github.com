@@ -19,18 +19,20 @@ and mathematical modeling.
 
 ```
 ### Honors & Awards
-
+```
 National Scholarship in 2015-2016
 Second prize in Sichuan Province of CUMCM Competition
 Third prize in Sichuan Province of The Chinese Mathematics Competitions
 Second prize in SCU mathematics Competitions
 Second prize in SCU airplane modeling Competitions
 The first comprehensive Scholarship in 2016-2017
-
+```
 ### What I Have Learnt In Computer Science
+```
 Know the basic rules and properties of Python/C/C++ (Udacity/edx/xuetang)
 Data Structure (through Mooc(icourse) and Textbooks)
 Operating System
-
+```
 ### The Skills & Courses That I Am Learning
+
 CSAPP/Statistical Learning/Machine Learning
