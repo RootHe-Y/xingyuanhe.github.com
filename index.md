@@ -6,20 +6,31 @@ Email:root_he@outlook.com
 
 ### Biography [CV]
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+CET4:566  CET6:513  TOFEL:101 
 
 ```markdown
+
 I am currently a Junior student in College of Material Science and Engineering, Sichuan Univ. 
 
-My research interest includes machine learning in the field of material Science , material image computing, and mathematical modeling.
+Ranked in 1st out of 66 with the Grade Point Average of 3.77 (90.96) by now.
+
+Interested in machine learning in the field of material Science , material image computing, 
+and mathematical modeling.
+
 ```
+### Honors & Awards
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+National Scholarship in 2015-2016
+Second prize in Sichuan Province of CUMCM Competition
+Third prize in Sichuan Province of The Chinese Mathematics Competitions
+Second prize in SCU mathematics Competitions
+Second prize in SCU airplane modeling Competitions
+The first comprehensive Scholarship in 2016-2017
 
-### Jekyll Themes
+### What I Have Learnt In Computer Science
+Know the basic rules and properties of Python/C/C++ (Udacity/edx/xuetang)
+Data Structure (through Mooc(icourse) and Textbooks)
+Operating System
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RootHe-Y/xingyuanhe.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### The Skills & Courses That I Am Learning
+CSAPP/Statistical Learning/Machine Learning
