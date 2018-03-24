@@ -20,12 +20,12 @@ and mathematical modeling.
 ```
 ### Honors & Awards
 ```
-National Scholarship in 2015-2016
-Second prize in Sichuan Province of CUMCM Competition
-Third prize in Sichuan Province of The Chinese Mathematics Competitions
-Second prize in SCU mathematics Competitions
-Second prize in SCU airplane modeling Competitions
-The first comprehensive Scholarship in 2016-2017
+National Scholarship in China, 2016
+Second prize in Sichuan Province of CUMCM Competition, 2017
+Third prize in Sichuan Province of The Chinese Mathematics Competitions, 2017
+Second prize in SCU mathematics Competitions, 2017
+Second prize in SCU airplane modeling Competitions, 2017
+The first comprehensive Scholarship, 2017
 ```
 ### What I Have Learnt In Computer Science
 ```
