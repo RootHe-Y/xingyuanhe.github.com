@@ -16,7 +16,7 @@ Interested in machine learning in the field of material Science
 , material image computing, and mathematical modeling.
 
 ```
-### Language Test
+## Language Test
 Tofel ：101
 CET6 : 513
 ### Honors & Awards
@@ -30,6 +30,7 @@ The first comprehensive Scholarship, 2017
 ```
 ### What I Have Learnt In Computer Science
 ```
+I gain a lot of skills of CS by trough online courses and orgnazations such as Udacity/EDX/Xuetang/icourse/Youtube
 Know the basic rules and properties of Python/C/C++ (Udacity/edx/xuetang)
 Data Structure (through Mooc(icourse) and Textbooks)
 ```
