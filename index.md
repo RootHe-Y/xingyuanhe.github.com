@@ -5,19 +5,20 @@ Junior Student, College of Material Science and Engineering, Sichuan Univ, Chend
 Email:root_he@outlook.com
 
 ### Biography [CV]
-
-CET4:566  CET6:513  TOFEL:101 
-
 ```markdown
 
-I am currently a Junior student in College of Material Science and Engineering, Sichuan Univ. 
+I am currently a Junior student in College of Material Science and Engineering,
+Sichuan Univ. 
 
 Ranked in 1st out of 66 with the Grade Point Average of 3.77 (90.96) by now.
 
-Interested in machine learning in the field of material Science , material image computing, 
-and mathematical modeling.
+Interested in machine learning in the field of material Science
+, material image computing, and mathematical modeling.
 
 ```
+### Language Test
+Tofel ：101
+CET6 : 513
 ### Honors & Awards
 ```
 National Scholarship in China, 2016
@@ -31,8 +32,7 @@ The first comprehensive Scholarship, 2017
 ```
 Know the basic rules and properties of Python/C/C++ (Udacity/edx/xuetang)
 Data Structure (through Mooc(icourse) and Textbooks)
-Operating System
 ```
 ### The Skills & Courses That I Am Learning
 
-CSAPP/Statistical Learning/Machine Learning
+Operating System/Algorithm/Statistical Learning/Machine Learning
