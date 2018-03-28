@@ -35,5 +35,4 @@ Know the basic rules and properties of Python/C/C++ (Udacity/edx/xuetang)
 Data Structure (through Mooc(icourse) and Textbooks)
 ```
 ### The Skills & Courses That I Am Learning
-
 Operating System/Algorithm/Statistical Learning/Machine Learning
