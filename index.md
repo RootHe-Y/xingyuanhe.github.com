@@ -3,8 +3,7 @@
 Junior Student, College of Material Science and Engineering, Sichuan Univ, Chendu
 
 Email:root_he@outlook.com
-##
-## Biography [CV]
+
 ### General Statement
 ```markdown
 I am currently a Junior student in College of Material Science and Engineering,
@@ -36,4 +35,6 @@ Know the basic rules and properties of Python/C/C++ (Udacity/edx/xuetang)
 Data Structure (through Mooc(icourse) and Textbooks)
 ```
 ### The Skills & Courses That I Am Learning
+```
 Operating System/Algorithm/Statistical Learning/Machine Learning
+```
