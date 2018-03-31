@@ -14,7 +14,7 @@ material image computing, and mathematical modeling.
 ```
 ### Language Test
 ```
-Tofel ：101
+Toefl ：101
 CET6  : 513
 CET4  : 566
 ```
