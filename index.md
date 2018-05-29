@@ -8,9 +8,10 @@ Email:root_he@outlook.com
 ```markdown
 I am currently a Junior student in College of Material Science and Engineering,
 Sichuan Univ. 
-Ranked in 1st out of 66 with the Grade Point Average of 3.77 (90.96) by now.
+Ranked in 1st out of 64 with the Grade Point Average of 3.77 (90.96) by now.
+
 Interested in machine learning in the field of material Science,
-material image computing, and mathematical modeling.
+computer vision, and mathematical modeling,trajectory data mining
 ```
 ### Language Test
 ```
@@ -26,6 +27,7 @@ Third prize in Sichuan Province of The Chinese Mathematics Competitions, 2017
 Second prize in SCU mathematics Competitions, 2017
 Second prize in SCU airplane modeling Competitions, 2017
 The first comprehensive Scholarship, 2017
+The third prize in National English Competition,2018
 ```
 ### What I Have Learnt In Computer Science
 ```
