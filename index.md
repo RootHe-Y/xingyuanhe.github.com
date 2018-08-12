@@ -10,8 +10,7 @@ I am currently a Junior student in College of Material Science and Engineering,
 Sichuan Univ. 
 Ranked in 1st out of 64 with the Grade Point Average of 3.77 (90.96) by now.
 
-Interested in machine learning in the field of material Science,
-computer vision, and mathematical modeling,trajectory data mining
+Interested in machine learning,and mathematical modeling,data mining
 ```
 ### Language Test
 ```
@@ -32,11 +31,11 @@ The third prize in National English Competition,2018
 ### What I Have Learnt In Computer Science
 ```
 I gain a lot of skills of CS by trough online courses and orgnazations 
-such as Udacity/EDX/Xuetang/icourse/Youtube
-Know the basic rules and properties of Python/C/C++ (Udacity/edx/xuetang)
+Know the basic rules and properties of Python/C/C++ 
 Data Structure (through Mooc(icourse) and Textbooks)
+Operating systerm
 ```
 ### The Skills & Courses That I Am Learning
 ```
-Operating System/Algorithm/Statistical Learning/Machine Learning
+Operating System/Algorithm/Machine Learning/
 ```
