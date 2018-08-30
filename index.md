@@ -10,7 +10,7 @@ I am currently a Junior student in College of Material Science and Engineering,
 Sichuan Univ. 
 Ranked in 1st out of 64 with the Grade Point Average of 3.77 (90.96) by now.
 
-Interested in machine learning,and mathematical modeling,data mining
+Interested in machine learning,and mathematical modeling,data mining in manufacturing.
 ```
 ### Language Test
 ```
